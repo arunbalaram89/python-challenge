@@ -33,8 +33,6 @@ with open(budgetpath, 'r') as csvfile:
         # Add Net Profit
         net_profit.append(column[1])
         # Get the average change 
-        
-        avg_change.append(column[1])
         # Determine changes of Profit/Loss and then average of changes
         prev_net = int(first_row[1])
         net_change = int(first_row[1]) - prev_net
@@ -43,11 +41,10 @@ with open(budgetpath, 'r') as csvfile:
         avg_change.append(column[1])
     
         # Determine greatest increase in Profits (Date and Amount) over the entire period
-        for x in highest_Profit:
-            
-        greatest_increase_profits.append()
+        High_profit += greatest_increase_profits
+        greatest_increase_profits.append(int+=(column[1]))
         # Determine greatest decrease in profits (Date and Amount) over the entire period
-
+        Lowest_profit -= greatest_decrease_profits
         greatest_decrease_profits.append(int-=(column[1]))
 
 
