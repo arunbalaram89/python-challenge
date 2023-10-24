@@ -2,7 +2,7 @@
 
 
 # Introduction
-Module 3 looks at Python functions used to analyze data on the PyBank and PyPoll data 
+Module 3 looks at Python functions used to analyze data on the PyBank and PyPoll data. Text files were printed out and displayed in a .txt format.
 
 # Table of Contents 
 Introduction 
@@ -22,4 +22,5 @@ Visual Studio Code
 # Credit 
 
 Arun Balaram 
+DV Tutors 
 ASK BCS
