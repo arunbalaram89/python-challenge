@@ -1,0 +1,7 @@
+BUDGET DATA
+-------------------------------------
+Total number of months in the budget data is: 86
+The total net total amount of Profit and Losses over the entire period is $22564198
+The changes in Profit/Losses over the entire period, and then the average of those changes $-8311.11
+The greatest increase in profits (date and amount) over the entire period Aug-16 $1862002
+The greatest decrease in profits (date and amount) over the entire period Feb-14 $-1825558
